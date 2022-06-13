@@ -1,0 +1,2 @@
+useradd -m -G sudo,adm -s /bin/bash mecharok and passwd mecharok
+
